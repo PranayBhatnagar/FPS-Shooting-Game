@@ -1,2 +1,1 @@
-# FPS-Shooting-Game
-This is a First Person Shooting Game made with C# on the UNITY Engine and the UNITY 3D Studio.
+Project and assets go along with this tutorial: https://youtu.be/Sqb-Ue7wpsI
